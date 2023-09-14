@@ -41,4 +41,4 @@ class Car {
       cars.className = `car ${this.color}`;
     }
   }
-  
+  const car = new Car('', '', '', '', '');
